@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Hi-Lo game engineered  with React Native & Redux",
   "main": "index.js",
+  "engines": {
+    "node": "12.9.1"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
